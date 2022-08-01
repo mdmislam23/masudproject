@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dd7b781-7c5d-4719-a568-3e46eff1cba4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/masudproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    <list default="true" id="0dd7b781-7c5d-4719-a568-3e46eff1cba4" name="Changes" comment="add Project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +50,28 @@
       <option name="presentableId" value="Default" />
       <updated>1659311674522</updated>
     </task>
+    <task id="LOCAL-00001" summary="add Project">
+      <created>1659312983372</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659312983373</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Project">
+      <created>1659313248458</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659313248458</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Project">
+      <created>1659313360426</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659313360427</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Project" />
   </component>
 </project>
